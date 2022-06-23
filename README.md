@@ -1,5 +1,12 @@
 Hi 👋 My name is Panguin6010
-============================Web designer, vmware esxi specialist------------------------------------* 🌍  I'm based in USA* ✉️  You can contact me at [shloimyisaacs@gmail.com](mailto:shloimyisaacs@gmail.com)* 🚀  I'm currently working on [Signtunes](http://signtunes.com)* 🧠  I'm learning python* 🤝  I'm open to collaborating on anything :)
+============================
+Web designer, vmware esxi specialist
+------------------------------------
+* 🌍  I'm based in USA
+* ✉️  You can contact me at [shloimyisaacs@gmail.com](mailto:shloimyisaacs@gmail.com)
+* 🚀  I'm currently working on [Signtunes](http://signtunes.com)
+* 🧠  I'm learning python
+* 🤝  I'm open to collaborating on anything :)
 
 <a href="https://www.twitter.com/panguin6010" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/panguin6010?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/panguin6010" target="_blank" rel="noreferrer"><img
