@@ -1,6 +1,6 @@
 Hi 👋 My name is Shlomo
 ============================
-Web designer, vmware esxi specialist
+Developer, vmware esxi specialist
 ------------------------------------
 * 🌍  I'm based in USA
 * ✉️  You can contact me at [shloimyisaacs@gmail.com](mailto:shloimyisaacs@gmail.com)
