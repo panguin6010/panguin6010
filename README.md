@@ -1,6 +1,6 @@
 # Shlomo Isaacs
 
-Machine Learning Engineer at Kudelski Security, July 2025 — Present
+Machine Learning Engineer at Kudelski Security, September 2021 — Present
 
 - [shlomoisaacs.com](https://www.shlomoisaacs.com/)
 - [LinkedIn](https://www.linkedin.com/in/shlomo-isaacs)
