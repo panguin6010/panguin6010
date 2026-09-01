@@ -1,6 +1,6 @@
 # Shlomo Isaacs
 
-Machine Learning Engineer at Kudelski Security in Phoenix, AZ — an apprentice there from September 2021, and in my current role since July 2025.
+Machine Learning Engineer at Kudelski Security — an apprentice there from September 2021, and in my current role since July 2025.
 
 - [shlomoisaacs.com](https://www.shlomoisaacs.com/)
 - [LinkedIn](https://www.linkedin.com/in/shlomo-isaacs)
